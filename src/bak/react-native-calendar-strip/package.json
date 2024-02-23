@@ -1,0 +1,95 @@
+{
+  "_args": [
+    [
+      "react-native-calendar-strip@0.1.4",
+      "/Volumes/Work/Projects/App POS merchant & checkin/POS Merchant & Checkin"
+    ]
+  ],
+  "_from": "react-native-calendar-strip@0.1.4",
+  "_id": "react-native-calendar-strip@0.1.4",
+  "_inBundle": false,
+  "_integrity": "sha1-ky/ssE/FqOjRAPQsd7e3auDV1aw=",
+  "_location": "/react-native-calendar-strip",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "react-native-calendar-strip@0.1.4",
+    "name": "react-native-calendar-strip",
+    "escapedName": "react-native-calendar-strip",
+    "rawSpec": "0.1.4",
+    "saveSpec": null,
+    "fetchSpec": "0.1.4"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/react-native-calendar-strip/-/react-native-calendar-strip-0.1.4.tgz",
+  "_spec": "0.1.4",
+  "_where": "/Volumes/Work/Projects/App POS merchant & checkin/POS Merchant & Checkin",
+  "author": {
+    "name": "Bogdan Begovic",
+    "email": "bogdanbegovic@gmail.com"
+  },
+  "bugs": {
+    "url": "https://github.com/BugiDev/react-native-calendar-strip/issues"
+  },
+  "contributors": [
+    {
+      "name": "Florian Biebel",
+      "url": "https://github.com/1ne8ight7even"
+    },
+    {
+      "name": "Peace",
+      "email": "pc_5@yahoo.com",
+      "url": "https://github.com/peacechen"
+    },
+    {
+      "name": "Vitaliy Zhukov",
+      "url": "https://github.com/Vitall"
+    }
+  ],
+  "dependencies": {
+    "moment": "^2.17.1"
+  },
+  "description": "Easy to use and visually stunning calendar component for React Native",
+  "devDependencies": {
+    "babel-eslint": "^6.1.2",
+    "eslint": "^3.4.0",
+    "eslint-plugin-react": "^6.2.0",
+    "react": "15.2.1",
+    "react-native": "^0.31.0"
+  },
+  "directories": {
+    "example": "example"
+  },
+  "homepage": "https://github.com/BugiDev/react-native-calendar-strip#readme",
+  "keywords": [
+    "react",
+    "native",
+    "rn",
+    "RN",
+    "react native",
+    "react-native",
+    "calendar",
+    "strip",
+    "calendar strip",
+    "calendar-strip",
+    "react native calendar",
+    "react-native-calendar",
+    "react native calendar strip",
+    "react-native-calendar-strip"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "react-native-calendar-strip",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BugiDev/react-native-calendar-strip.git"
+  },
+  "scripts": {
+    "eslint": "eslint .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "0.1.4"
+}
